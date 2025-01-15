@@ -1,11 +1,12 @@
-- ~ Hi, I’m @Lucas-Luxury
-- ~ Real name: Artur
-- ~ Last name: hidden
-- ~ Age: 15
-- ~ Main Programming Language: Python
-- ~ Devices: iPhone 16 Pro Max;
-- ~ Fun fact: I'm sleeping now
-- ~ Favorite Movie: Киберсталкер
+- ~ 👨‍💻Hi, I’m @Lucas-Luxury
+- ~ 🦠Real name: Artur
+- ~ 🥷Last name: hidden
+- ~ 👶Age: 15
+- ~ 🚩Country of Residence: Uzbekistan
+- ~ 🧠Main Programming Language: Python
+- ~ 🤡Device: iPhone 16 Pro Max
+- ~ 🥱Fun fact: I'm sleeping now
+- ~ 🎭Favorite Movie: Киберсталкер 
 - ~ Contact me:
-- ~            Telegram: @TheAnotherOneUsername
-- ~            Telegram: @LucasLux
+-            Telegram: @TheAnotherOneUsername
+-            Telegram: @LucasLux
