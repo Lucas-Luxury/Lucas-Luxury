@@ -8,5 +8,5 @@
 - ~ 🥱Fun fact: I'm sleeping now
 - ~ 🎭Favorite Movie: Киберсталкер 
 - ~ Contact me:
--            Telegram: @TheAnotherOneUsername
--            Telegram: @LucasLux
+- Telegram: @TheAnotherOneUsername
+- Telegram: @LucasLux
