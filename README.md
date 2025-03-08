@@ -1,10 +1,8 @@
 - ~ 👨‍💻Hi, I’m @Lucas-Luxury
 - ~ 🦠Real name: Artur
-- ~ 🥷Last name: hidden
 - ~ 👶Age: 15
-- ~ 🚩Country of Residence: Uzbekistan
+- ~ 🚩Country: Uzbekistan
 - ~ 🧠Main Programming Language: Python
-- ~ 🤡Device: iPhone 16 Pro Max
 - ~ 🥱Fun fact: I'm sleeping now
 - ~ 🎭Favorite Movie: Киберсталкер 
 - ~ Contact me:
