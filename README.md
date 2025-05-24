@@ -1,6 +1,6 @@
 - ~ 👨‍💻Hi, I’m @Lucas-Luxury
 - ~ 🦠Real name: Artur
-- ~ 👶Age: 15
+- ~ 👶Age: 16
 - ~ 🚩Country: Uzbekistan
 - ~ 🧠Main Programming Language: Python
 - ~ 🥱Fun fact: I'm sleeping now
